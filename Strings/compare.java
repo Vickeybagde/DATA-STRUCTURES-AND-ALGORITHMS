@@ -26,6 +26,10 @@ public class compare {
          * jab hum koi dusri string jaise str2 = "vickey" banate hai aur same string likte hai usme bhi aur jab hum in dono string ko check karte hai equal hai ya nahi to 
          * to ye dono String heap memory me Store same string ko point karte hai 
          * aur jab hum koi naya  object banate hai aur usme bhi same string pass karte hai to ye 1 nayi string ban jati hai
+         * 
+         * iski time complexity = n^2 hongi
+         * 
+         * isi concept ko interning kahate hai
          */
 
 
