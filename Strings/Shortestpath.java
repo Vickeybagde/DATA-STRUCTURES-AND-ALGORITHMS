@@ -10,7 +10,7 @@ public class Shortestpath {
             }
             else if(str.charAt(i) == 'E'){
                 x++;
-            }
+            }                                  //git remote add origin https://github.com/Vickeybagde/DATA-STRUCTURES-AND-ALGORITHMS.git
             else{
                 x--;
             }
